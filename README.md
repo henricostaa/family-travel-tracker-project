@@ -36,11 +36,6 @@ O projeto demonstra integração entre backend em Node.js, persistência relacio
 - **Modelo relacional objetivo** (`users` + `visited_countries`) com boa base para crescimento.
 - **Experiência prática de produto**: o sistema resolve um caso real de acompanhamento familiar de viagens.
 
-## Preview
-> _Adicione aqui um GIF ou screenshot da aplicação rodando para aumentar conversão com recrutadores._
-
-![Preview do projeto](https://via.placeholder.com/1200x650.png?text=Family+Travel+Tracker+Preview)
-
 ## Como Rodar Localmente
 
 ### 1) Clone o repositório
