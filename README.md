@@ -93,6 +93,6 @@ family-travel-tracker-project/
 - Exibir métricas avançadas (continentes, últimos países adicionados, ranking familiar). 
 -->
 
-## 👨‍💻 Autor
+## Autor
 Feito por **Henrique Costa**.  
 Se este projeto te interessou, fique à vontade para conectar no LinkedIn e trocar ideias sobre backend, dados e produtos digitais.
